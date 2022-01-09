@@ -1,0 +1,107 @@
+.main-div{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.main-menu{
+    text-align: center;
+    color: #061826;
+    font-size: 40pt;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    background-color: #89AAE6;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.main-menu-button{
+    display: flex;
+    background-color: #0471A6;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.link{
+    font-size: 15pt;
+    color: white;
+    text-decoration: none;
+}
+
+.link:hover{
+    color: red;
+}
+
+.buttons{
+    flex-grow: 1;
+    text-align: center;
+}
+
+.container{
+    margin-top: 20px;
+    display: flex;
+    padding-bottom: 3%;
+}
+
+.content{
+    flex-grow: 1;
+    text-align: center;
+    font-size: 20pt;
+    font-weight: bold;
+}
+
+.description{
+    font-size: 12pt;
+    text-align: justify;
+    margin-right: 20px;
+}
+
+.image-box{
+    float: right;
+    text-align: center;
+    font-size: 20pt;
+    font-weight: bold;
+}
+
+.image{
+    width: 200px;
+}
+
+.footer{
+    display: flex;
+    margin-top: 20px;
+}
+
+.footer-content{
+    flex-grow: 1;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.link-footer{
+    font-size: 12pt;
+    color: blue;
+}
+
+.link-footer:hover{
+    font-size: 12pt;
+    color: red;
+}
+
+.footer-title{
+    font-size: 20pt;
+    font-weight: bold;
+}
+
+.main-footer{
+    padding-top: 3%;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 5%;
+    background-color: #89AAE6;
+}
+
+.copyright{
+    text-align: center;
+    padding-top: 5%;
+}

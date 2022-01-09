@@ -1,0 +1,21 @@
+.navigation{
+    background-color: bisque;
+    /* display: flex;
+    flex-direction: column;
+    align-self: center; */
+    text-align: center;
+}
+
+.title{
+    font-size: 30pt;
+    font-weight: bold;
+    text-align: center;
+}
+
+.right-menu{
+    padding-left: 400px;
+}
+
+.left-menu{
+    padding-right: 400px;
+}

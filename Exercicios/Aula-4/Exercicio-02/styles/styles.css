@@ -1,0 +1,47 @@
+.background{
+    background-color: #DDF093;
+}
+
+.main-title{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 30pt;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #A8D0DB;
+    background-color: #2B4570;
+}
+
+.main-menu{
+    background-color: #E49273;
+    text-align: center;
+}
+
+.menu-option{
+    padding: 10px 10px 10px 10px;
+}
+
+.description-container{
+    background-color: white;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.description{
+    padding: 20px 20px 20px 20px;
+}
+
+.image{
+    text-align: center;
+}
+
+.release-movie{
+    font-size: 30pt;
+    font-weight: bold;
+}
+
+.copyright{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}

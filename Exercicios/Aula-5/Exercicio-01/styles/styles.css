@@ -1,0 +1,25 @@
+.main-body{
+    margin: 0 0 0 0;
+}
+
+.main-bar{
+    background-color: blue;
+    color: white;
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+    font-size: 35pt;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.form{
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-top: 20px;
+    padding-bottom: 200px;
+}
+
+.space{
+    margin-bottom: 10px;
+}
