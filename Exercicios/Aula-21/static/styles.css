@@ -1,0 +1,76 @@
+/* Para todo o documento */
+body {
+    margin: 0 0 0 0;
+}
+
+/* Fontes adicionadas, CSS para utilizar
+    font-family: 'Quintessential', cursive;
+
+    font-family: 'Redressed', cursive;
+
+    font-family: 'Roboto', sans-serif;
+
+    font-family: 'Rowdies', cursive;
+
+    font-family: 'Shizuru', cursive;
+
+    font-family: 'Supermercado One', cursive; */
+
+/* Menu */
+.menu-bar-backgrond {
+    background-color: cyan;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.menu-bar {
+    /* margens em auto para centralizar a div */
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    align-items: center;
+    grid-template-columns: 3fr 0.5fr 0.5fr 0.5fr;
+    column-gap: 10px;
+    max-width: 75%;
+}
+
+.menu-bar-homepage {
+}
+
+.menu-bar-grid {
+    text-align: center;
+    font-family: "Rowdies", cursive;
+}
+
+.menu-bar-title-anchor {
+    text-decoration: none;
+    font-family: "Redressed", cursive;
+    font-size: 30pt;
+}
+
+.menu-bar-anchor {
+    text-decoration: none;
+}
+
+/* Conteudo */
+.content {
+    text-align: center;
+    max-width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+.content-title {
+    font-size: 20pt;
+    margin-bottom: 20px;
+    font-family: "Supermercado One", cursive;
+}
+
+.content-description {
+    font-family: "Roboto", sans-serif;
+}
+
+.login {
+    display: flex;
+}
